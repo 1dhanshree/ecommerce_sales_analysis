@@ -62,7 +62,9 @@ jupyter notebook sales_analysis.ipynb
 
 ✨ Key Visualizations
 Here are the two main plots generated from the analysis:
+![Image](https://github.com/user-attachments/assets/04e5bb84-bea4-42dc-954c-e29005a6fe80)
 
+![Image](https://github.com/user-attachments/assets/4ff6c277-2407-450b-8546-d96f445d4b3c)
 !<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/04e5bb84-bea4-42dc-954c-e29005a6fe80" />
 Monthly Revenue Trend (2009-2011)
 This line chart shows the overall revenue trend over time, highlighting significant growth towards the end of each year.
